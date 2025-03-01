@@ -8,7 +8,7 @@ const teamData = [
     name: 'Dipak Patel',
     title: 'CEO',
     description: 'Leading the strategic vision, Dipak drives the company towards innovation and excellence, ensuring long-term growth and success.',
-    image: '/mayanks.png',
+    image: '/Dipakpatel.png',
     social: {
       linkedin: '/ln.png',
       twitter: '/tw.png',
@@ -60,7 +60,7 @@ const teamData = [
     name: 'Sneha Chouhan',
     title: 'UIUX designer',
     description: 'UI/UX Designer focused on creating intuitive, user-friendly, and visually engaging digital experiences through research, prototyping, and collaboration.',
-    image: '/mayanks.png',
+    image: '/sneha.png',
     social: {
       linkedin: '/ln.png',
       linkdinlink:'https://www.linkedin.com/in/sc2401/',
