@@ -1,3 +1,4 @@
+// "use client"
 import ContactForm from '@/components/Contact/Contactform';
 import Footer from '@/components/Footer';
 import Navbar from '@/components/Navbar';
@@ -22,7 +23,7 @@ const ContactUs: React.FC = () => {
           playsInline 
           className="absolute inset-0 w-full h-full object-cover"
         >
-          <source src="/ledgerline.mp4" type="video/mp4" />
+          <source src="/contactvideo.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
         
