@@ -1,7 +1,6 @@
 import Image from 'next/image';
 import React, { useState } from 'react';
 
-// Sample JSON Data for Team Members
 const teamData = [
   {
     id: 1,
@@ -28,18 +27,7 @@ const teamData = [
       linkdnlink: ''
     },
   },
-  // {
-  //   id: 3,
-  //   name: 'Mayank Kumar',
-  //   title: 'Sr Blockchain Developer',
-  //   description: 'A Senior Developer, excels in blockchain technology, crafting secure and scalable decentralized solutions.',
-  //   image: '/mayanks.png',
-  //   social: {
-  //     linkedin: '/ln.png',
-  //     twitter: '/tw.png',
-  //     facebook: '/fa.png',
-  //   },
-  // },
+
   {
     id: 3,
     name: 'Adarsh Kumar',

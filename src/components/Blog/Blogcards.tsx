@@ -20,12 +20,7 @@ const BlogCards: React.FC = () => {
           {/* 6.Secure and reliable applications with robust data protection. <br/> */}
  
           </p>
-          {/* <button className="flex items-center bg-[#0411FF] text-white px-4 py-2 self-start lg:self-end hover:bg-blue-700">
-            Read More
-            <span className="ml-2">
-              <Image src="/blogarrow.png" alt="arrow" width={20} height={20} />
-            </span>
-          </button> */}
+          
         </div>
 
         {/* Image Section */}

@@ -2,7 +2,7 @@ import Image from "next/image";
 import React, { useState } from "react";
 
 const CompanyPartners: React.FC = () => {
-  // State to track the current page
+  
   const [currentPage, setCurrentPage] = useState(0);
 
   // Array of logos
@@ -10,15 +10,14 @@ const CompanyPartners: React.FC = () => {
     { src: "/partner1.png", alt: "CodeExceptional 1", width: 120, height: 100 },
     { src: "/partner2.png", alt: "CodeExceptional 2", width: 120, height: 100 },
     { src: "/partner3.png", alt: "CodeExceptional 3", width: 120, height: 100 },
-    // { src: "/co4.png", alt: "CodeExceptional 4", width: 120, height: 100 },
-    // { src: "/co5.png", alt: "CodeExceptional 5", width: 120, height: 100 },
+    
   ];
 
-  // Items per page for mobile view
-  const itemsPerPage = 2; // Two logos per page for mobile
+  
+  const itemsPerPage = 2; 
   const totalPages = Math.ceil(logos.length / itemsPerPage);
 
-  // Handler for moving to the next page
+  
   const nextPage = () => {
     setCurrentPage((prev) => (prev + 1) % totalPages);
   };

@@ -1,7 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import { BiArrowBack } from "react-icons/bi";
-import { ImInstagram } from "react-icons/im";
+
 
 const Footer: React.FC = () => {
   return (

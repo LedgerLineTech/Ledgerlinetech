@@ -50,7 +50,7 @@ const ContactForm: React.FC = () => {
               We’d be delighted to connect with you! <br /> Complete the form, and we’ll get back <br /> to you at the earliest opportunity.
             </p>
             <div className="space-y-4">
-      {/* Phone */}
+      
       <motion.div
         className="flex items-center space-x-3"
         animate={{ color: ["#ffffff", "#ffcc00", "#ff5733", "#ffffff"] }}

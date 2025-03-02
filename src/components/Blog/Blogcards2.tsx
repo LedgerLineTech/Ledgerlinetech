@@ -15,12 +15,7 @@ const BlogCards2: React.FC = () => {
           4.Scalable and secure network solutions for enhanced connectivity. <br/>
           5.Data backup, recovery, and disaster management services.
           </p>
-          {/* <button className="flex items-center bg-[#0411FF] text-white px-4 py-2 self-start lg:self-end hover:bg-blue-700">
-            Read More
-            <span className="ml-2">
-              <Image src="/blogarrow.png" alt="arrow" width={20} height={20} />
-            </span>
-          </button> */}
+          
         </div>
         <div className="relative flex justify-center items-center lg:mr-28 lg:-ml-20">
           <Image

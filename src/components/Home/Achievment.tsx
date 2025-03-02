@@ -1,4 +1,4 @@
-// Import React and necessary modules
+
 import Image from "next/image";
 import React from "react";
 
