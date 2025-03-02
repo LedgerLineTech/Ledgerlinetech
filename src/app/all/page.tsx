@@ -1,4 +1,4 @@
-"use client";
+// "use client";
 import React from "react";
 import {  FaTwitter, FaInstagram, FaTelegram } from "react-icons/fa";
 import { Metadata } from 'next';
