@@ -8,19 +8,19 @@ const categories = ["All", "Crypto Wallet", "Exchange", "NFTs", "Web", "App", "I
 const projects = [
   {
     title: "Wyscale",
-    imgSrc: "/ca1.png",
+    imgSrc: "/projects1.png",
     category: "Crypto Wallet",
     bgClass: "bg-blue-600",
   },
   {
     title: "Wyscale Swapping",
-    imgSrc: "/ca2.png",
+    imgSrc: "/projects2.png",
     category: "Dapp",
     bgClass: "bg-blue-600",
   },
   {
     title: "Rabbit Box",
-    imgSrc: "/ca3.png",
+    imgSrc: "/projects3.png",
     category: "NFTs",
     bgClass: "bg-blue-600",
   },

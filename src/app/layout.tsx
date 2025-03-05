@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://ledgerlinetechnology-pqqo.vercel.app",
+    url: "www.ledgerlinetech.com",
     title: "Ledgerline | Best Blockchain & Software Development Company",
     description: "Ledgerline offers top-notch blockchain solutions and software development services in Gujarat. Partner with us for innovative tech solutions.",
     siteName: "Ledgerline",

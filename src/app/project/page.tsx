@@ -21,7 +21,7 @@ const Home: React.FC = () => {
           {/* Image 1 */}
           <div className="relative">
             <img
-              src="/p3.png"
+              src="/p1.png"
               alt="NFT"
               className="rounded-lg object-cover w-full h-40"
             />

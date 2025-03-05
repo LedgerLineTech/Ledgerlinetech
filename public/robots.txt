@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ledgerlinetechnology-pqqo.vercel.app/sitemap.xml
